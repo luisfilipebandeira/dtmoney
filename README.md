@@ -11,14 +11,14 @@
 
 <p>Dashboard</p>
 <p align="center">
-  <img alt="Dashboard" src=".github/dashboard.png" width="100%">
+  <img alt="Dashboard" src="github/dashboard.png" width="100%">
 </p>
 
 <br>
 
 <p>Modal que aparece quando clica em "Nova transação"</p>
 <p align="center">
-  <img alt="Modal" src=".github/modal.png" width="100%">
+  <img alt="Modal" src="github/modal.png" width="100%">
 </p>
 
 
